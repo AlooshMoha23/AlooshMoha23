@@ -23,9 +23,8 @@ My Skills
 </div>
 </td><td valign="top" width="33%">
 <div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" height="50" /></a>  
+<a href="https://www.volatilityfoundation.org/" target="_blank"><img style="margin: 10px" src="https://www.volatilityfoundation.org/img/volatility_logo.png" alt="Volatility" height="50" /></a>  
+<a href="https://www.sleuthkit.org/autopsy/" target="_blank"><img style="margin: 10px" src="https://www.sleuthkit.org/autopsy/images/autopsy_logo.png" alt="Autopsy" height="50" /></a>   
 </div>
 </td></tr></table>
 <br/>
