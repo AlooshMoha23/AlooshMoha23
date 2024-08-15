@@ -9,8 +9,7 @@ My Skills
 <table><tr><td valign="top" width="33%">
 <div align="center">  
 <a href="https://www.linuxfoundation.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.microsoft.com" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  <a href="https://www.microsoft.com/windows" target="_blank"><img style="margin: 10px" src="https://cdn.pixabay.com/photo/2018/05/08/21/29/windows-3384024_1280.png" alt="Windows" height="50" /></a>
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -18,14 +17,14 @@ My Skills
 </td><td valign="top" width="33%">
 <div align="center">  
 <a href="https://www.cisco.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco Networking" height="50" /></a>  
-<a href="https://www.wireshark.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" height="50" /></a>  
+<a href="https://www.wireshark.org/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*TIaWe1I4s7nysvus8wCkXw.png" alt="Wireshark" height="50" /></a>  
 <a href="https://www.nmap.org/" target="_blank"><img style="margin: 10px" src="https://nmap.org/images/sitelogo.png" alt="Nmap" height="50" /></a>  
 <a href="https://www.tenable.com/products/nessus" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/letslearnabout.net/wp-content/uploads/2023/08/Xrfr2ME.png?w=800&ssl=1" alt="Nessus" height="50" /></a>  
 </div>
 </td><td valign="top" width="33%">
 <div align="center">  
-<a href="https://www.volatilityfoundation.org/" target="_blank"><img style="margin: 10px" src="https://www.volatilityfoundation.org/img/volatility_logo.png" alt="Volatility" height="50" /></a>  
-<a href="https://www.sleuthkit.org/autopsy/" target="_blank"><img style="margin: 10px" src="https://www.sleuthkit.org/autopsy/images/autopsy_logo.png" alt="Autopsy" height="50" /></a>   
+<a href="https://www.volatilityfoundation.org/" target="_blank"><img style="margin: 10px" src="https://i.ytimg.com/vi/A2AZhJdmeYU/maxresdefault.jpg" alt="Volatility" height="50" /></a>  
+<a href="https://www.sleuthkit.org/autopsy/" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/autopsy-digital-forensics5329.jpg" alt="Autopsy" height="50" /></a>   
 </div>
 </td></tr></table>
 <br/>
