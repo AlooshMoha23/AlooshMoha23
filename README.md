@@ -32,7 +32,7 @@ GitHub Stats
 <table>
 <thead>
   <tr>
-    <th><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=acslwt&theme=dark&hide_border=true&include_all_commits=true&count_private=true" align="center" /></th>
+    <th><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alooshmoha23&theme=dark&hide_border=true&include_all_commits=true&count_private=true" align="center" /></th>
     <th colspan="2" align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=acslwt&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&&hide=css,html,antlr,lex" align="center" /></th>
   </tr>
 </thead>
