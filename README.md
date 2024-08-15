@@ -19,8 +19,8 @@ My Skills
 <div align="center">  
 <a href="https://www.cisco.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco Networking" height="50" /></a>  
 <a href="https://www.wireshark.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" height="50" /></a>  
-<a href="https://www.nmap.org/" target="_blank"><img style="margin: 10px" src="https://images.squarespace-cdn.com/content/v1/5b6d93494eddecacd175e239/1574087871944-A4ON7R1F17VR7VQP4GWA/Tenable+Nessus+banner.png?format=2500w" alt="Nmap" height="50" /></a>  
-<a href="https://www.tenable.com/products/nessus" target="_blank"><img style="margin: 10px" src="https://fr.wikipedia.org/wiki/Nessus_(logiciel)#/media/Fichier:Nessus-Professional-FullColor-RGB.svg" alt="Nessus" height="50" /></a>  
+<a href="https://www.nmap.org/" target="_blank"><img style="margin: 10px" src="https://nmap.org/images/sitelogo.png" alt="Nmap" height="50" /></a>  
+<a href="https://www.tenable.com/products/nessus" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/letslearnabout.net/wp-content/uploads/2023/08/Xrfr2ME.png?w=800&ssl=1" alt="Nessus" height="50" /></a>  
 </div>
 </td><td valign="top" width="33%">
 <div align="center">  
