@@ -20,7 +20,7 @@ My Skills
 <a href="https://www.cisco.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco Networking" height="50" /></a>  
 <a href="https://www.wireshark.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" height="50" /></a>  
 <a href="https://www.nmap.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Nmap_logo.svg" alt="Nmap" height="50" /></a>  
-<a href="https://www.tenable.com/products/nessus" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/f/f1/Nessus_logo.png" alt="Nessus" height="50" /></a>  
+<a href="https://www.tenable.com/products/nessus" target="_blank"><img style="margin: 10px" src="https://fr.wikipedia.org/wiki/Nessus_(logiciel)#/media/Fichier:Nessus-Professional-FullColor-RGB.svg" alt="Nessus" height="50" /></a>  
 </div>
 </td><td valign="top" width="33%">
 <div align="center">  
